@@ -33,7 +33,7 @@ git clone https://github.com/parthasdey2304/snake-game.git
 cd snake-game
 ```
 
-+ Run the **snake.py** file :
++ Run the ***snake.py*** file :
 ```
 python3 snake.py
 ```
