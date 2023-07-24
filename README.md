@@ -48,4 +48,12 @@ python3 snake.py
 # Screenshots
 ![image](https://github.com/parthasdey2304/snake-game/assets/131694386/0aae16c7-df01-453f-837d-6ff7350aa52d)
 
+# Reporting Bugs
+If you guys find any bugs in the application follow these guidelines :
++ Raise an issue in the issues section.
++ If you want to fix the bug make a pull request and do it.
++ After its done just mail that to me at parthasdeyofficial@gmail.com.
++ I would verify you bug fixing and then merge it with the main branch!
+
+
 # The game is running!! Enjoy
